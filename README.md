@@ -2,7 +2,7 @@
 Example Api  (Node js)
 
 ### install the node 
-npm instal
+npm install
 
 npm start
 
